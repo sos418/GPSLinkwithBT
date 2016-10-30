@@ -1,0 +1,6 @@
+# ninja log v5
+0	151	0	CMakeFiles/native-lib.dir/main.c.o	ac6a6529ae560d64
+0	157	0	CMakeFiles/native-lib.dir/rtcm.c.o	fa6fa18a9a77a3f6
+0	230	0	CMakeFiles/native-lib.dir/rtcm2.c.o	23f20fc3a5c50dcb
+0	739	0	CMakeFiles/native-lib.dir/rtkcmn.c.o	1e1e3d8df8e902c1
+739	780	0	/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	e5cb93fb1fd3962d

@@ -1,0 +1,492 @@
+[
+    {
+        "outputFile": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 70,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 82,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1622
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1627,
+                    "endColumn": 119,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 62,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1959
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1964,
+                    "endColumn": 62,
+                    "endOffset": 2022
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2027,
+                    "endColumn": 131,
+                    "endOffset": 2154
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 70,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 82,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1622
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1627,
+                    "endColumn": 119,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 62,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1959
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1964,
+                    "endColumn": 62,
+                    "endOffset": 2022
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2027,
+                    "endColumn": 131,
+                    "endOffset": 2154
+                },
+                "from": {
+                    "file": "/Users/KuanYu/Desktop/Exfractal/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            }
+        ]
+    }
+]

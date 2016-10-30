@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etxt_mac1"
+            android:layout_weight="1"
+            android:maxLength="2"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:inputType="textCapCharacters|textVisiblePassword" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=":"
+            android:id="@+id/textView5" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etxt_mac2"
+            android:layout_weight="1"
+            android:maxLength="2"
+            android:gravity="center"
+            android:inputType="textCapCharacters|textVisiblePassword" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=":"
+            android:id="@+id/textView" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etxt_mac3"
+            android:layout_weight="1"
+            android:maxLength="2"
+            android:gravity="center"
+            android:inputType="textPhonetic|textCapCharacters|textVisiblePassword" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=":"
+            android:id="@+id/textView6" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etxt_mac4"
+            android:layout_weight="1"
+            android:maxLength="2"
+            android:gravity="center"
+            android:inputType="textCapCharacters|textVisiblePassword" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=":"
+            android:id="@+id/textView7" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etxt_mac5"
+            android:layout_weight="1"
+            android:maxLength="2"
+            android:gravity="center"
+            android:inputType="textCapCharacters|textVisiblePassword" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=":"
+            android:id="@+id/textView8" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etxt_mac6"
+            android:layout_weight="1"
+            android:maxLength="2"
+            android:gravity="center"
+            android:inputType="textCapCharacters|textVisiblePassword" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="未連線"
+        android:id="@+id/txt_btMacConnectStatus"
+        android:layout_marginLeft="15dp"
+        android:textColor="#FF0000" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/connect"
+            android:id="@+id/btn_btMacConnect"
+            android:enabled="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp" />
+    </LinearLayout>
+
+</LinearLayout>

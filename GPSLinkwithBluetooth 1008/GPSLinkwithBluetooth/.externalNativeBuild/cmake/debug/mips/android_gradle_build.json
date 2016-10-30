@@ -1,0 +1,59 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/jni/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/KuanYu/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/KuanYu/Documents/Github/GPSLinkwithBluetooth\\ 1008/GPSLinkwithBluetooth/.externalNativeBuild/cmake/debug/mips --target clean"
+	],
+	"libraries" : 
+	{
+		"native-lib-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/KuanYu/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/KuanYu/Documents/Github/GPSLinkwithBluetooth\\ 1008/GPSLinkwithBluetooth/.externalNativeBuild/cmake/debug/mips --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mipsel-none-linux-android -gcc-toolchain /Users/KuanYu/Library/Android/sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/KuanYu/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-mips -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/jni/main.c",
+					"workingDirectory" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  -target mipsel-none-linux-android -gcc-toolchain /Users/KuanYu/Library/Android/sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/KuanYu/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-mips -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/jni/rtcm.c",
+					"workingDirectory" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  -target mipsel-none-linux-android -gcc-toolchain /Users/KuanYu/Library/Android/sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/KuanYu/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-mips -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/jni/rtcm2.c",
+					"workingDirectory" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  -target mipsel-none-linux-android -gcc-toolchain /Users/KuanYu/Library/Android/sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/KuanYu/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-mips -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/jni/rtkcmn.c",
+					"workingDirectory" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/.externalNativeBuild/cmake/debug/mips"
+				}
+			],
+			"output" : "/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/cmake/debug/obj/mips/libnative-lib.so",
+			"toolchain" : "3837349812840280203"
+		}
+	},
+	"toolchains" : 
+	{
+		"3837349812840280203" : 
+		{
+			"cCompilerExecutable" : "/Users/KuanYu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/KuanYu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

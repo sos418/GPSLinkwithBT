@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:weightSum="60" >
+
+    <ToggleButton
+        android:id="@+id/Btn_Save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton"
+        android:textOff="Save"
+        android:textOn="Stop"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/btnclear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:src="@drawable/clear"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="60.19"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/mscrollView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.9"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="#d4f1ff"
+            android:elevation="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/msgText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
+
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AutoScroll"
+                android:id="@+id/cbox_autoscroll"
+                android:layout_above="@+id/textView14"
+                android:layout_toRightOf="@+id/txt_longtitude"
+                android:layout_toEndOf="@+id/txt_longtitude"
+                android:layout_below="@+id/chartLayout"
+                android:textSize="20dp"
+                android:checked="true"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Record Time: 0:0:0"
+                android:id="@+id/txt_recordtime"
+                android:layout_weight="1"
+                android:layout_gravity="center" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

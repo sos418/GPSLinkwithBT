@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPSLinkwithBluetooth</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SSID">SSID</string>
+    <string name="scan">SCAN</string>
+    <string name="connect">CONNECT</string>
+    <string name="password">Password</string>
+
+    <string-array name="BT_Connect_Mode">
+        <item>Scan</item>
+        <item>Mac Addr</item>
+    </string-array>
+
+    <string-array name="pager_array">
+        <item>連線設定</item>
+        <item>NMEA</item>
+        <item>即時位置</item>
+        <item>衛星狀態</item>
+    </string-array>
+    <!--<string-array name="pager_array">
+        <item>連線設定</item>
+        <item>NMEA</item>
+        <item>WIFI SETTING</item>
+        <item>即時位置</item>
+        <item>衛星狀態</item>
+        <item>SKY PLOT</item>
+    </string-array>-->
+</resources>

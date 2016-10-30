@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_d9ad7402a3156ab252b57b0caee78b620e0e54c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.github.lecho/hellocharts-android/v1.5.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="838172f1d23787cc52bb558ef989605bc2aecf62">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.github.lecho-hellocharts-android-v1.5.8_a6239d6dd1eb6fec0325315108cb41cdf2713759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_42e2bbee30fb8766e6261a02e01d5fb45802557b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_d0483ac4480a3cb582dd8eeffeeff70649d2c8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_1bae47d1de1ffdfae3b39ed7becd83a2e579f0e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_bd6b0d9238824a6e4bc9fdf767ea7cbfe1c0f73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_29bde940d8315e4635c504c9eb773cc1ce7394eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_e2325cdb2df8a4330b22bf4700b9e617251fba73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_8e0da1d0a593aca3ec26d570395d4e9a952e51d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_60626bf3eb6569d8d048d12080d5d4f272d06430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_d15d3f66de3d4e147968568d135c575fd132fc9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/KuanYu/Documents/Github/GPSLinkwithBluetooth 1008/GPSLinkwithBluetooth/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_37c4946f8bdf332218bb7912f95b5954bc82aa40.jar" />
+    </item>
+
+</items>
